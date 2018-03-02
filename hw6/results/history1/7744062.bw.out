@@ -1,0 +1,16 @@
+----------------------------------------
+Begin Torque Prologue on nid27561
+at Sat Oct 28 20:59:06 CDT 2017
+Job Id:			7744062.bw
+Username:		tra027
+Group:			TRAIN_balq
+Job name:		B2model
+Requested resources:	neednodes=1:ppn=16:xk,nodes=1:ppn=16:xk,walltime=24:00:00
+Queue:			normal
+Account:		balq
+End Torque Prologue:  0.139 elapsed
+----------------------------------------
+
+
+
+

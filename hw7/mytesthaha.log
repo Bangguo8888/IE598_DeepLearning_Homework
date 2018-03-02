@@ -1,0 +1,4 @@
+  File "GA3C.py", line 43
+    setattr(Config, x, type(getattr(Config, x))(y))b
+                                                   ^
+SyntaxError: invalid syntax
