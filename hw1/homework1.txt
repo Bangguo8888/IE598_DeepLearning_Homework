@@ -1,0 +1,28 @@
+598 deep learning homework 1
+Bangguo Wang 
+NetID: bangguo2
+
+
+Experiment Conclusion:
+I used the fixed iteration: 100, activation function: ‘relu’ and batch size: 50,
+then I try several learning rate : 0.001, 0.005, 0.01, 0.05, 0.1, 
+and try several number of hidden units: 5, 10, 20, 50, 100, 500
+When the number of hidden units are 5, 10, 20, 50, 100, 500, the accuracy for the train data set and test data set are as follows:
+
+
+
+Hidden unites:                      5          10        20       50        100       500
+performance['train']['0.001'] = [0.861000, 0.917550, 0.933117, 0.935400, 0.939783, 0.943600]
+performance['test']['0.001']  = [0.864300, 0.918000, 0.932500, 0.935300, 0.939400, 0.943200]
+
+performance['train']['0.005'] = [0.893967, 0.940667, 0.963433, 0.974683, 0.979717, 0.983900]
+performance['test']['0.005']  = [0.889900, 0.934300, 0.957200, 0.965900, 0.971100, 0.975400]
+
+performance['train']['0.01']  = [0.895833, 0.946467, 0.967917, 0.986917, 0.990050, 0.994183]
+performance['test']['0.01']   = [0.891000, 0.939100, 0.957700, 0.973000, 0.976500, 0.979700]
+
+performance['train']['0.05']  = [0.909850, 0.957483, 0.979667, 0.999783, 0.999983, 1.000000]
+performance['test']['0.05']   = [0.900700, 0.940700, 0.956500, 0.973200, 0.980400, 0.982200]
+
+performance['train']['0.1']   = [0.908333, 0.958150, 0.980817, 1.000000, 1.000000, 1.000000]
+performance['test']['0.1']    = [0.897600, 0.939800, 0.950700, 0.973100, 0.980500, 0.982300]
