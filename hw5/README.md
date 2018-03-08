@@ -6,5 +6,5 @@ Part 1 - Fine-tuning Resnet for Action Recognition
 
 Part 2 - Extracted Features from ConvLSTM  
 
-Read the report [here](https://bangguo8888.github.io/IE598_DeepLearning_Homework/hw5/HW5_Report.html).
+**Read the report [here](https://bangguo8888.github.io/IE598_DeepLearning_Homework/hw5/HW5_Report.html).**
 
